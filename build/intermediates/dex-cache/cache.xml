@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e04ba8e69cd4595068f48fbfa48ad04f75136a5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4b1ef2cb4bb011dbbe76b3559b61363dc5b8fb30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_72f5934c2157143bad0e754e55509012c1c5e816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_de09b0f9f3f749afaf95f8d9ba5e49579a944086/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3893c1a451979e430e21a54abaf92846d7ea4ea6">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb0a8675058105a39df850f206810ab3c5ca62d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4cb8c021b87a5e7c254a269043c8df8a1aadd2a1">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bca535ae4550f1affd23ae2e957ca1fcf0595bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio copy.app/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_cac6955061d2b516a996d0a32451a3c11818bb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ca76d4bf880d57bbaf52d590cec214af2b66ffcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2a25fdd20d5f75558b6011724bbfbb7d97c7f5b7">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_23e704d2f6dabf4d2ec19b9f6fab7ea1204871ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devinstafford/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="cdeb2aecf7557aa5f8d2ac0e37a0e7760f48c513">
+        <dex dex="/Users/devinstafford/AndroidStudioProjects/HeightEstimator/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_59dee20a0b9a199e2331d13d726b04a3cff4a5a7/classes.dex" />
+    </item>
+
+</items>
